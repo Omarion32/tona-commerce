@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "tona-shopping",
+    "staging": "tona-shopping"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
